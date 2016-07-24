@@ -1,5 +1,5 @@
 # pxc
-Install PXC scripts for Linux
+Install Percona Cluster Database scripts for Linux
 
 Just Minimize Installation Linux dist. and run the scripts
 
